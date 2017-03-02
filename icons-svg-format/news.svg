@@ -1,0 +1,92 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 150">
+  <title>news</title>
+  <path d="M109,68V86H51V68h58m1-1H50V87h60V67Z" transform="translate(-35 -52)"/>
+  <path d="M199,114v18H141V114h58m1-1H140v20h60V113Z" transform="translate(-35 -52)"/>
+  <path d="M109,134v18H91V134h18m1-1H90v20h20V133Z" transform="translate(-35 -52)"/>
+  <path d="M159,68V86H141V68h18m1-1H140V87h20V67Z" transform="translate(-35 -52)"/>
+  <path d="M199,154v18H181V154h18m1-1H180v20h20V153Z" transform="translate(-35 -52)"/>
+  <g>
+    <rect x="15.5" y="49.5" width="59" height="2"/>
+    <path d="M109,102v1H51v-1h58m1-1H50v3h60v-3Z" transform="translate(-35 -52)"/>
+  </g>
+  <g>
+    <rect x="15.5" y="59.5" width="59" height="2"/>
+    <path d="M109,112v1H51v-1h58m1-1H50v3h60v-3Z" transform="translate(-35 -52)"/>
+  </g>
+  <g>
+    <rect x="105.5" y="51.5" width="59" height="2"/>
+    <path d="M199,104v1H141v-1h58m1-1H140v3h60v-3Z" transform="translate(-35 -52)"/>
+  </g>
+  <g>
+    <rect x="15.5" y="69.5" width="59" height="2"/>
+    <path d="M109,122v1H51v-1h58m1-1H50v3h60v-3Z" transform="translate(-35 -52)"/>
+  </g>
+  <g>
+    <rect x="105.5" y="42.5" width="59" height="2"/>
+    <path d="M199,95v1H141V95h58m1-1H140v3h60V94Z" transform="translate(-35 -52)"/>
+  </g>
+  <g>
+    <rect x="105.5" y="129.5" width="59" height="2"/>
+    <path d="M199,182v1H141v-1h58m1-1H140v3h60v-3Z" transform="translate(-35 -52)"/>
+  </g>
+  <g>
+    <rect x="15.5" y="109.5" width="59" height="2"/>
+    <path d="M109,162v1H51v-1h58m1-1H50v3h60v-3Z" transform="translate(-35 -52)"/>
+  </g>
+  <g>
+    <rect x="105.5" y="89.5" width="59" height="2"/>
+    <path d="M199,142v1H141v-1h58m1-1H140v3h60v-3Z" transform="translate(-35 -52)"/>
+  </g>
+  <g>
+    <rect x="15.5" y="119.5" width="59" height="2"/>
+    <path d="M109,172v1H51v-1h58m1-1H50v3h60v-3Z" transform="translate(-35 -52)"/>
+  </g>
+  <g>
+    <rect x="15.5" y="129.5" width="59" height="2"/>
+    <path d="M109,182v1H51v-1h58m1-1H50v3h60v-3Z" transform="translate(-35 -52)"/>
+  </g>
+  <g>
+    <rect x="135.5" y="18.5" width="29" height="2"/>
+    <path d="M199,71v1H171V71h28m1-1H170v3h30V70Z" transform="translate(-35 -52)"/>
+  </g>
+  <g>
+    <rect x="135.5" y="28.5" width="29" height="2"/>
+    <path d="M199,81v1H171V81h28m1-1H170v3h30V80Z" transform="translate(-35 -52)"/>
+  </g>
+  <g>
+    <rect x="15.5" y="84.5" width="29" height="2"/>
+    <path d="M79,137v1H51v-1H79m1-1H50v3H80v-3Z" transform="translate(-35 -52)"/>
+  </g>
+  <g>
+    <rect x="15.5" y="94.5" width="29" height="2"/>
+    <path d="M79,147v1H51v-1H79m1-1H50v3H80v-3Z" transform="translate(-35 -52)"/>
+  </g>
+  <g>
+    <rect x="105.5" y="104.5" width="29" height="2"/>
+    <path d="M169,157v1H141v-1h28m1-1H140v3h30v-3Z" transform="translate(-35 -52)"/>
+  </g>
+  <g>
+    <rect x="105.5" y="114.5" width="29" height="2"/>
+    <path d="M169,167v1H141v-1h28m1-1H140v3h30v-3Z" transform="translate(-35 -52)"/>
+  </g>
+  <g>
+    <path d="M214.5,201.5Z" transform="translate(-35 -52)" fill="#fff"/>
+    <polygon points="180 0 179 0 179 150 180 150 180 0 180 0"/>
+  </g>
+  <g>
+    <rect width="180" height="1" fill="#fff"/>
+    <polygon points="180 0 0 0 0 1 180 1 180 0 180 0"/>
+  </g>
+  <g>
+    <rect y="149" width="180" height="1" fill="#fff"/>
+    <polygon points="180 149 0 149 0 150 180 150 180 149 180 149"/>
+  </g>
+  <g>
+    <path d="M35.5,201.5Z" transform="translate(-35 -52)" fill="#fff"/>
+    <polygon points="1 0 0 0 0 150 1 150 1 0 1 0"/>
+  </g>
+  <g>
+    <path d="M125,201Z" transform="translate(-35 -52)" fill="#fff"/>
+    <polygon points="90.5 0.5 89.5 0.5 89.5 149.5 90.5 149.5 90.5 0.5 90.5 0.5"/>
+  </g>
+</svg>

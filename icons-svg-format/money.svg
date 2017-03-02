@@ -1,0 +1,31 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 206">
+  <title>money</title>
+  <g>
+    <rect x="0.5" y="20.5" width="119" height="19"/>
+    <path d="M184,43V61H66V43H184m1-1H65V62H185V42Z" transform="translate(-65 -22)"/>
+  </g>
+  <g>
+    <rect x="0.5" y="26.5" width="19" height="74"/>
+    <path d="M84,49v73H66V49H84m1-1H65v75H85V48Z" transform="translate(-65 -22)"/>
+  </g>
+  <g>
+    <rect x="67.5" y="0.5" width="19" height="205"/>
+    <path d="M151,23V227H133V23h18m1-1H132V228h20V22Z" transform="translate(-65 -22)"/>
+  </g>
+  <g>
+    <rect x="33.5" y="0.5" width="19" height="205"/>
+    <path d="M117,23V227H99V23h18m1-1H98V228h20V22Z" transform="translate(-65 -22)"/>
+  </g>
+  <g>
+    <rect x="100.5" y="101.5" width="19" height="74"/>
+    <path d="M184,124v73H166V124h18m1-1H165v75h20V123Z" transform="translate(-65 -22)"/>
+  </g>
+  <g>
+    <rect x="0.5" y="93.5" width="119" height="19"/>
+    <path d="M184,116v18H66V116H184m1-1H65v20H185V115Z" transform="translate(-65 -22)"/>
+  </g>
+  <g>
+    <rect x="0.5" y="166.5" width="119" height="19"/>
+    <path d="M184,189v18H66V189H184m1-1H65v20H185V188Z" transform="translate(-65 -22)"/>
+  </g>
+</svg>

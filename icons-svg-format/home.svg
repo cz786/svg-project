@@ -1,0 +1,9 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 206.5">
+  <title>home</title>
+  <g>
+    <path d="M125.5,249.5v-80h-51v80h-24V121.91l-4.76-4.41L125,44.18l79.26,73.32-4.76,4.41V249.5Zm13-39h41v-41h-41Z" transform="translate(-45 -43.5)" fill="#fff"/>
+    <path d="M125,44.86l78.53,72.64-4.21,3.9-.32.3V249H126V169H74v80H51V121.69l-.32-.3-4.21-3.9L125,44.86M138,211h42V169H138v42M125,43.5l-80,74,5,4.63V250H75V170h50v80h75V122.13l5-4.63-80-74ZM139,210V170h40v40Zm-14,40h0Z" transform="translate(-45 -43.5)"/>
+  </g>
+  <path d="M50.14,100" transform="translate(-45 -43.5)" fill="#fff" stroke="#000" stroke-miterlimit="10"/>
+  <line x1="43" y1="24.5" x2="118" y2="24.5" fill="none"/>
+</svg>

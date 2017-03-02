@@ -1,0 +1,55 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 201 4083.49">
+  <title>stocks</title>
+  <g>
+    <rect x="0.5" y="0.5" width="6" height="193"/>
+    <path d="M33,37V229H28V37h5m1-1H27V230h7V36Z" transform="translate(-27 -36)"/>
+  </g>
+  <g>
+    <rect x="7.5" y="187.5" width="193" height="6"/>
+    <path d="M227,224v5H35v-5H227m1-1H34v7H228v-7Z" transform="translate(-27 -36)"/>
+  </g>
+  <g>
+    <rect x="21.5" y="194.5" width="78" height="4" transform="translate(-148.23 64.33) rotate(-45)"/>
+    <path d="M86.66,168.22l2.12,2.12L34.34,224.78l-2.12-2.12,54.45-54.45m0-1.41L30.8,222.66l3.54,3.54L90.2,170.34l-3.54-3.54Z" transform="translate(-27 -36)"/>
+  </g>
+  <g>
+    <rect x="43.52" y="91.22" width="50.52" height="4" transform="translate(-72.77 39.94) rotate(-45)"/>
+    <path d="M85.23,74.65l2.12,2.12-35,35-2.12-2.12,35-35m0-1.41L48.8,109.66l3.54,3.54L88.77,76.77l-3.54-3.54Z" transform="translate(-27 -36)"/>
+  </g>
+  <g>
+    <rect x="122.52" y="103.22" width="50.52" height="4" transform="translate(-58.11 99.32) rotate(-45)"/>
+    <path d="M164.23,86.65l2.12,2.12-35,35-2.12-2.12,35-35m0-1.41L127.8,121.66l3.54,3.54,36.43-36.43-3.54-3.54Z" transform="translate(-27 -36)"/>
+  </g>
+  <g>
+    <rect x="92.5" y="157.5" width="78" height="4" transform="translate(-101.27 103.7) rotate(-45)"/>
+    <path d="M157.66,131.22l2.12,2.12-54.45,54.45-2.12-2.12,54.45-54.45m0-1.41L101.8,185.66l3.54,3.54,55.86-55.86-3.54-3.54Z" transform="translate(-27 -36)"/>
+  </g>
+  <g>
+    <rect x="156.5" y="116.5" width="78" height="4" transform="translate(-53.53 136.95) rotate(-45)"/>
+    <path d="M221.66,90.22l2.12,2.12-54.45,54.45-2.12-2.12,54.45-54.45m0-1.41L165.8,144.66l3.54,3.54L225.2,92.34l-3.54-3.54Z" transform="translate(-27 -36)"/>
+  </g>
+  <g>
+    <rect x="93.78" y="164.27" width="4" height="27.89" transform="translate(-124.96 83.93) rotate(-45)"/>
+    <path d="M87.34,167.65l19,19-2.12,2.12-19-19,2.12-2.12m0-1.41-3.54,3.54,20.43,20.43,3.54-3.54L87.34,166.23Z" transform="translate(-27 -36)"/>
+  </g>
+  <g>
+    <rect x="105.93" y="65.41" width="4" height="67.89" transform="translate(-65.65 69.42) rotate(-45)"/>
+    <path d="M85.34,74.65l47.3,47.3-2.12,2.12-47.3-47.3,2.12-2.12m0-1.41L81.8,76.77l48.72,48.72,3.54-3.54L85.34,73.23Z" transform="translate(-27 -36)"/>
+  </g>
+  <g>
+    <rect x="189.68" y="74.86" width="4" height="78.5" transform="translate(-51.55 132.96) rotate(-45)"/>
+    <path d="M165.34,85.65l54.8,54.8L218,142.57l-54.8-54.8,2.12-2.12m0-1.41-3.54,3.54L218,144l3.54-3.54L165.34,84.23Z" transform="translate(-27 -36)"/>
+  </g>
+  <g>
+    <rect x="40.78" y="86.27" width="4" height="27.89" transform="translate(-85.33 23.61) rotate(-45)"/>
+    <path d="M34.34,89.65l19,19-2.12,2.12-19-19,2.12-2.12m0-1.41L30.8,91.77,51.23,112.2l3.54-3.54L34.34,88.23Z" transform="translate(-27 -36)"/>
+  </g>
+  <g>
+    <rect x="161.68" y="129.56" width="4" height="19.1" transform="translate(-77.42 120.48) rotate(-45)"/>
+    <path d="M158.34,131.65l12.8,12.8L169,146.57l-12.8-12.8,2.12-2.12m0-1.41-3.54,3.54L169,148l3.54-3.54-14.22-14.22Z" transform="translate(-27 -36)"/>
+  </g>
+  <g>
+    <rect x="163.79" y="4093.56" width="4" height="27.89" transform="translate(-2882.41 1283.77) rotate(-44.99)"/>
+    <path d="M157.34,4096.94l19,19-2.12,2.12-19-19,2.12-2.12m0-1.41-3.54,3.54,20.43,20.43,3.54-3.54-20.43-20.43Z" transform="translate(-27 -36)"/>
+  </g>
+</svg>

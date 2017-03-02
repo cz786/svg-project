@@ -1,0 +1,71 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 201 125">
+  <title>mail</title>
+  <g>
+    <circle cx="172" cy="24.2" r="6.5" fill="#fff"/>
+    <path d="M196,80.2a6,6,0,1,1-6,6,6,6,0,0,1,6-6m0-1a7,7,0,1,0,7,7,7,7,0,0,0-7-7Z" transform="translate(-24 -62)"/>
+  </g>
+  <g>
+    <path d="M194,110.5a7.5,7.5,0,0,1,0-15h4a7.5,7.5,0,0,1,0,15Z" transform="translate(-24 -62)" fill="#fff"/>
+    <path d="M198,96a7,7,0,0,1,0,14h-4a7,7,0,0,1,0-14h4m0-1h-4a8,8,0,0,0-8,8h0a8,8,0,0,0,8,8h4a8,8,0,0,0,8-8h0a8,8,0,0,0-8-8Z" transform="translate(-24 -62)"/>
+  </g>
+  <g>
+    <rect x="15.5" y="19.5" width="92" height="4"/>
+    <path d="M131,82v3H40V82h91m1-1H39v5h93V81Z" transform="translate(-24 -62)"/>
+  </g>
+  <g>
+    <rect x="15.5" y="31.5" width="70" height="4"/>
+    <path d="M109,94v3H40V94h69m1-1H39v5h71V93Z" transform="translate(-24 -62)"/>
+  </g>
+  <g>
+    <rect x="15.5" y="43.5" width="45" height="4"/>
+    <path d="M84,106v3H40v-3H84m1-1H39v5H85v-5Z" transform="translate(-24 -62)"/>
+  </g>
+  <g>
+    <rect x="15.5" y="71.5" width="104" height="4"/>
+    <path d="M143,134v3H40v-3H143m1-1H39v5H144v-5Z" transform="translate(-24 -62)"/>
+  </g>
+  <g>
+    <rect x="15.5" y="83.5" width="146" height="4"/>
+    <path d="M185,146v3H40v-3H185m1-1H39v5H186v-5Z" transform="translate(-24 -62)"/>
+  </g>
+  <g>
+    <rect x="15.5" y="95.5" width="169" height="4"/>
+    <path d="M208,158v3H40v-3H208m1-1H39v5H209v-5Z" transform="translate(-24 -62)"/>
+  </g>
+  <g>
+    <rect x="15.5" y="107.5" width="122" height="4"/>
+    <path d="M161,170v3H40v-3H161m1-1H39v5H162v-5Z" transform="translate(-24 -62)"/>
+  </g>
+  <g>
+    <path d="M24.5,186.5Z" transform="translate(-24 -62)" fill="aqua"/>
+    <polygon points="1 0 0 0 0 125 1 125 1 0 1 0"/>
+  </g>
+  <g>
+    <rect x="1" width="200" height="1" fill="aqua"/>
+    <polygon points="201 0 1 0 1 1 201 1 201 0 201 0"/>
+  </g>
+  <g>
+    <rect y="124" width="200" height="1" fill="aqua"/>
+    <polygon points="200 124 0 124 0 125 200 125 200 124 200 124"/>
+  </g>
+  <g>
+    <path d="M224.5,186.5Z" transform="translate(-24 -62)" fill="aqua"/>
+    <polygon points="201 0 200 0 200 125 201 125 201 0 201 0"/>
+  </g>
+  <g>
+    <path d="M177.5,111.5Z" transform="translate(-24 -62)" fill="aqua"/>
+    <polygon points="154 13 153 13 153 50 154 50 154 13 154 13"/>
+  </g>
+  <g>
+    <path d="M213.5,111.5Z" transform="translate(-24 -62)" fill="aqua"/>
+    <polygon points="190 13 189 13 189 50 190 50 190 13 190 13"/>
+  </g>
+  <g>
+    <rect x="153" y="49" width="37" height="1" fill="aqua"/>
+    <polygon points="190 49 153 49 153 50 190 50 190 49 190 49"/>
+  </g>
+  <g>
+    <rect x="153" y="13" width="37" height="1" fill="aqua"/>
+    <polygon points="190 13 153 13 153 14 190 14 190 13 190 13"/>
+  </g>
+</svg>

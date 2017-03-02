@@ -1,0 +1,312 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+
+<!-- SVG CODE FOR THE HOME ICON -->	
+
+	<symbol id="home" viewBox="0 0 160 206.5">
+		<title>Home Icon</title>
+  	<g>
+    <path d="M125.5,249.5v-80h-51v80h-24V121.91l-4.76-4.41L125,44.18l79.26,73.32-4.76,4.41V249.5Zm13-39h41v-41h-41Z" transform="translate(-45 -43.5)" />
+    <path d="M125,44.86l78.53,72.64-4.21,3.9-.32.3V249H126V169H74v80H51V121.69l-.32-.3-4.21-3.9L125,44.86M138,211h42V169H138v42M125,43.5l-80,74,5,4.63V250H75V170h50v80h75V122.13l5-4.63-80-74ZM139,210V170h40v40Zm-14,40h0Z" transform="translate(-45 -43.5)"/>
+  	</g>
+  	<path d="M50.14,100" transform="translate(-45 -43.5)" />
+  	<line x1="43" y1="24.5" x2="118" y2="24.5" />
+	</symbol>
+
+<!-- SVG CODE FOR THE USER ICON -->	
+
+	<symbol id="user" viewBox="0 0 100 159">
+		<title>User Icon</title>
+  	<g>
+    <path d="M87,248.5A11.51,11.51,0,0,1,75.5,237V181A11.51,11.51,0,0,1,87,169.5h76A11.51,11.51,0,0,1,174.5,181v56A11.51,11.51,0,0,1,163,248.5Zm38-89A34.5,34.5,0,1,1,159.5,125,34.54,34.54,0,0,1,125,159.5Z" transform="translate(-75 -90)" />
+    <path d="M125,91a34,34,0,1,1-34,34,34,34,0,0,1,34-34m38,79a11,11,0,0,1,11,11v56a11,11,0,0,1-11,11H87a11,11,0,0,1-11-11V181a11,11,0,0,1,11-11h76M125,90a35,35,0,1,0,35,35,35,35,0,0,0-35-35Zm38,79H87a12,12,0,0,0-12,12v56a12,12,0,0,0,12,12h76a12,12,0,0,0,12-12V181a12,12,0,0,0-12-12Z" transform="translate(-75 -90)"/>
+  	</g>
+	</symbol>
+
+<!-- SVG CODE FOR THE BAR GRAPH ICON -->	
+
+	<symbol id="graph" viewBox="0 0 201 194">
+		<title>Bar Graph Icon</title>
+  	<g>
+    <rect x="0.5" y="0.5" width="6" height="193"/>
+    <path d="M33,37V229H28V37h5m1-1H27V230h7V36Z" transform="translate(-27 -36)"/>
+  	</g>
+  	<g>
+    <rect x="7.5" y="187.5" width="193" height="6"/>
+    <path d="M227,224v5H35v-5H227m1-1H34v7H228v-7Z" transform="translate(-27 -36)"/>
+  	</g>
+  	<g>
+    <rect x="23.5" y="122.5" width="39" height="64"/>
+    <path d="M89,159v63H51V159H89m1-1H50v65H90V158Z" transform="translate(-27 -36)"/>
+  	</g>
+  	<g>
+    <rect x="83.5" y="31.5" width="39" height="155"/>
+    <path d="M149,68V222H111V68h38m1-1H110V223h40V67Z" transform="translate(-27 -36)"/>
+	  </g>
+	  <g>
+    <rect x="143.5" y="78.5" width="39" height="108"/>
+    <path d="M209,115V222H171V115h38m1-1H170V223h40V114Z" transform="translate(-27 -36)"/>
+  	</g>
+	</symbol>
+
+<!-- SVG CODE FOR THE MAIL ICON -->	
+
+	<symbol id="mail" viewBox="0 0 201 125">
+		<title>Mail Icon</title>
+  	<g>
+    <circle cx="172" cy="24.2" r="6.5" />
+    <path d="M196,80.2a6,6,0,1,1-6,6,6,6,0,0,1,6-6m0-1a7,7,0,1,0,7,7,7,7,0,0,0-7-7Z" transform="translate(-24 -62)"/>
+	  </g>
+	  <g>
+    <path d="M194,110.5a7.5,7.5,0,0,1,0-15h4a7.5,7.5,0,0,1,0,15Z" transform="translate(-24 -62)" />
+    <path d="M198,96a7,7,0,0,1,0,14h-4a7,7,0,0,1,0-14h4m0-1h-4a8,8,0,0,0-8,8h0a8,8,0,0,0,8,8h4a8,8,0,0,0,8-8h0a8,8,0,0,0-8-8Z" transform="translate(-24 -62)"/>
+	  </g>
+	  <g>
+    <rect x="15.5" y="19.5" width="92" height="4"/>
+    <path d="M131,82v3H40V82h91m1-1H39v5h93V81Z" transform="translate(-24 -62)"/>
+	  </g>
+	  <g>
+    <rect x="15.5" y="31.5" width="70" height="4"/>
+    <path d="M109,94v3H40V94h69m1-1H39v5h71V93Z" transform="translate(-24 -62)"/>
+	  </g>
+	  <g>
+    <rect x="15.5" y="43.5" width="45" height="4"/>
+    <path d="M84,106v3H40v-3H84m1-1H39v5H85v-5Z" transform="translate(-24 -62)"/>
+	  </g>
+	  <g>
+    <rect x="15.5" y="71.5" width="104" height="4"/>
+    <path d="M143,134v3H40v-3H143m1-1H39v5H144v-5Z" transform="translate(-24 -62)"/>
+	  </g>
+	  <g>
+    <rect x="15.5" y="83.5" width="146" height="4"/>
+    <path d="M185,146v3H40v-3H185m1-1H39v5H186v-5Z" transform="translate(-24 -62)"/>
+	  </g>
+	  <g>
+    <rect x="15.5" y="95.5" width="169" height="4"/>
+    <path d="M208,158v3H40v-3H208m1-1H39v5H209v-5Z" transform="translate(-24 -62)"/>
+	  </g>
+	  <g>
+    <rect x="15.5" y="107.5" width="122" height="4"/>
+    <path d="M161,170v3H40v-3H161m1-1H39v5H162v-5Z" transform="translate(-24 -62)"/>
+	  </g>
+	  <g>
+    <path d="M24.5,186.5Z" transform="translate(-24 -62)" />
+    <polygon points="1 0 0 0 0 125 1 125 1 0 1 0"/>
+	  </g>
+	  <g>
+    <rect x="1" width="200" height="1" />
+    <polygon points="201 0 1 0 1 1 201 1 201 0 201 0"/>
+	  </g>
+	  <g>
+    <rect y="124" width="200" height="1" />
+    <polygon points="200 124 0 124 0 125 200 125 200 124 200 124"/>
+	  </g>
+	  <g>
+    <path d="M224.5,186.5Z" transform="translate(-24 -62)" />
+    <polygon points="201 0 200 0 200 125 201 125 201 0 201 0"/>
+	  </g>
+	  <g>
+    <path d="M177.5,111.5Z" transform="translate(-24 -62)" />
+    <polygon points="154 13 153 13 153 50 154 50 154 13 154 13"/>
+	  </g>
+	  <g>
+    <path d="M213.5,111.5Z" transform="translate(-24 -62)" />
+    <polygon points="190 13 189 13 189 50 190 50 190 13 190 13"/>
+	  </g>
+	  <g>
+    <rect x="153" y="49" width="37" height="1" />
+    <polygon points="190 49 153 49 153 50 190 50 190 49 190 49"/>
+	  </g>
+	  <g>
+    <rect x="153" y="13" width="37" height="1" />
+    <polygon points="190 13 153 13 153 14 190 14 190 13 190 13"/>
+  	</g>
+	</symbol>
+
+<!-- SVG CODE FOR THE NEWS ICON -->	
+
+	<symbol id="news" viewBox="0 0 180 150">
+		<title>News Icon</title>
+	  <path d="M109,68V86H51V68h58m1-1H50V87h60V67Z" transform="translate(-35 -52)"/>
+	  <path d="M199,114v18H141V114h58m1-1H140v20h60V113Z" transform="translate(-35 -52)"/>
+	  <path d="M109,134v18H91V134h18m1-1H90v20h20V133Z" transform="translate(-35 -52)"/>
+	  <path d="M159,68V86H141V68h18m1-1H140V87h20V67Z" transform="translate(-35 -52)"/>
+	  <path d="M199,154v18H181V154h18m1-1H180v20h20V153Z" transform="translate(-35 -52)"/>
+	  <g>
+    <rect x="15.5" y="49.5" width="59" height="2"/>
+    <path d="M109,102v1H51v-1h58m1-1H50v3h60v-3Z" transform="translate(-35 -52)"/>
+	  </g>
+	  <g>
+    <rect x="15.5" y="59.5" width="59" height="2"/>
+    <path d="M109,112v1H51v-1h58m1-1H50v3h60v-3Z" transform="translate(-35 -52)"/>
+	  </g>
+	  <g>
+    <rect x="105.5" y="51.5" width="59" height="2"/>
+    <path d="M199,104v1H141v-1h58m1-1H140v3h60v-3Z" transform="translate(-35 -52)"/>
+	  </g>
+	  <g>
+    <rect x="15.5" y="69.5" width="59" height="2"/>
+    <path d="M109,122v1H51v-1h58m1-1H50v3h60v-3Z" transform="translate(-35 -52)"/>
+	  </g>
+	  <g>
+    <rect x="105.5" y="42.5" width="59" height="2"/>
+    <path d="M199,95v1H141V95h58m1-1H140v3h60V94Z" transform="translate(-35 -52)"/>
+	  </g>
+	  <g>
+    <rect x="105.5" y="129.5" width="59" height="2"/>
+    <path d="M199,182v1H141v-1h58m1-1H140v3h60v-3Z" transform="translate(-35 -52)"/>
+	  </g>
+	  <g>
+    <rect x="15.5" y="109.5" width="59" height="2"/>
+    <path d="M109,162v1H51v-1h58m1-1H50v3h60v-3Z" transform="translate(-35 -52)"/>
+	  </g>
+	  <g>
+    <rect x="105.5" y="89.5" width="59" height="2"/>
+    <path d="M199,142v1H141v-1h58m1-1H140v3h60v-3Z" transform="translate(-35 -52)"/>
+	  </g>
+	  <g>
+    <rect x="15.5" y="119.5" width="59" height="2"/>
+    <path d="M109,172v1H51v-1h58m1-1H50v3h60v-3Z" transform="translate(-35 -52)"/>
+	  </g>
+	  <g>
+    <rect x="15.5" y="129.5" width="59" height="2"/>
+    <path d="M109,182v1H51v-1h58m1-1H50v3h60v-3Z" transform="translate(-35 -52)"/>
+	  </g>
+	  <g>
+    <rect x="135.5" y="18.5" width="29" height="2"/>
+    <path d="M199,71v1H171V71h28m1-1H170v3h30V70Z" transform="translate(-35 -52)"/>
+	  </g>
+	  <g>
+    <rect x="135.5" y="28.5" width="29" height="2"/>
+    <path d="M199,81v1H171V81h28m1-1H170v3h30V80Z" transform="translate(-35 -52)"/>
+	  </g>
+	  <g>
+    <rect x="15.5" y="84.5" width="29" height="2"/>
+    <path d="M79,137v1H51v-1H79m1-1H50v3H80v-3Z" transform="translate(-35 -52)"/>
+	  </g>
+	  <g>
+    <rect x="15.5" y="94.5" width="29" height="2"/>
+    <path d="M79,147v1H51v-1H79m1-1H50v3H80v-3Z" transform="translate(-35 -52)"/>
+	  </g>
+	  <g>
+    <rect x="105.5" y="104.5" width="29" height="2"/>
+    <path d="M169,157v1H141v-1h28m1-1H140v3h30v-3Z" transform="translate(-35 -52)"/>
+	  </g>
+	  <g>
+    <rect x="105.5" y="114.5" width="29" height="2"/>
+    <path d="M169,167v1H141v-1h28m1-1H140v3h30v-3Z" transform="translate(-35 -52)"/>
+	  </g>
+	  <g>
+    <path d="M214.5,201.5Z" transform="translate(-35 -52)" fill="#fff"/>
+    <polygon points="180 0 179 0 179 150 180 150 180 0 180 0"/>
+	  </g>
+	  <g>
+    <rect width="180" height="1" fill="#fff"/>
+    <polygon points="180 0 0 0 0 1 180 1 180 0 180 0"/>
+	  </g>
+	  <g>
+    <rect y="149" width="180" height="1" fill="#fff"/>
+    <polygon points="180 149 0 149 0 150 180 150 180 149 180 149"/>
+	  </g>
+	  <g>
+    <path d="M35.5,201.5Z" transform="translate(-35 -52)" fill="#fff"/>
+    <polygon points="1 0 0 0 0 150 1 150 1 0 1 0"/>
+	  </g>
+	  <g>
+    <path d="M125,201Z" transform="translate(-35 -52)" fill="#fff"/>
+    <polygon points="90.5 0.5 89.5 0.5 89.5 149.5 90.5 149.5 90.5 0.5 90.5 0.5"/>
+  	</g>
+	</symbol>
+
+<!-- SVG CODE FOR THE STOCKS ICON -->	
+
+	<symbol id="stocks" viewBox="0 0 201 200">
+		<title>Stocks Icon</title>
+  	<g>
+    <rect x="0.5" y="0.5" width="6" height="193"/>
+    <path d="M33,37V229H28V37h5m1-1H27V230h7V36Z" transform="translate(-27 -36)"/>
+	  </g>
+	  <g>
+    <rect x="7.5" y="187.5" width="193" height="6"/>
+    <path d="M227,224v5H35v-5H227m1-1H34v7H228v-7Z" transform="translate(-27 -36)"/>
+	  </g>
+	  <g>
+    <rect x="21.5" y="194.5" width="78" height="4" transform="translate(-148.23 64.33) rotate(-45)"/>
+    <path d="M86.66,168.22l2.12,2.12L34.34,224.78l-2.12-2.12,54.45-54.45m0-1.41L30.8,222.66l3.54,3.54L90.2,170.34l-3.54-3.54Z" transform="translate(-27 -36)"/>
+	  </g>
+	  <g>
+    <rect x="43.52" y="91.22" width="50.52" height="4" transform="translate(-72.77 39.94) rotate(-45)"/>
+    <path d="M85.23,74.65l2.12,2.12-35,35-2.12-2.12,35-35m0-1.41L48.8,109.66l3.54,3.54L88.77,76.77l-3.54-3.54Z" transform="translate(-27 -36)"/>
+	  </g>
+	  <g>
+    <rect x="122.52" y="103.22" width="50.52" height="4" transform="translate(-58.11 99.32) rotate(-45)"/>
+    <path d="M164.23,86.65l2.12,2.12-35,35-2.12-2.12,35-35m0-1.41L127.8,121.66l3.54,3.54,36.43-36.43-3.54-3.54Z" transform="translate(-27 -36)"/>
+	  </g>
+	  <g>
+    <rect x="92.5" y="157.5" width="78" height="4" transform="translate(-101.27 103.7) rotate(-45)"/>
+    <path d="M157.66,131.22l2.12,2.12-54.45,54.45-2.12-2.12,54.45-54.45m0-1.41L101.8,185.66l3.54,3.54,55.86-55.86-3.54-3.54Z" transform="translate(-27 -36)"/>
+	  </g>
+	  <g>
+    <rect x="156.5" y="116.5" width="78" height="4" transform="translate(-53.53 136.95) rotate(-45)"/>
+    <path d="M221.66,90.22l2.12,2.12-54.45,54.45-2.12-2.12,54.45-54.45m0-1.41L165.8,144.66l3.54,3.54L225.2,92.34l-3.54-3.54Z" transform="translate(-27 -36)"/>
+	  </g>
+	  <g>
+    <rect x="93.78" y="164.27" width="4" height="27.89" transform="translate(-124.96 83.93) rotate(-45)"/>
+    <path d="M87.34,167.65l19,19-2.12,2.12-19-19,2.12-2.12m0-1.41-3.54,3.54,20.43,20.43,3.54-3.54L87.34,166.23Z" transform="translate(-27 -36)"/>
+	  </g>
+	  <g>
+    <rect x="105.93" y="65.41" width="4" height="67.89" transform="translate(-65.65 69.42) rotate(-45)"/>
+    <path d="M85.34,74.65l47.3,47.3-2.12,2.12-47.3-47.3,2.12-2.12m0-1.41L81.8,76.77l48.72,48.72,3.54-3.54L85.34,73.23Z" transform="translate(-27 -36)"/>
+	  </g>
+	  <g>
+    <rect x="189.68" y="74.86" width="4" height="78.5" transform="translate(-51.55 132.96) rotate(-45)"/>
+    <path d="M165.34,85.65l54.8,54.8L218,142.57l-54.8-54.8,2.12-2.12m0-1.41-3.54,3.54L218,144l3.54-3.54L165.34,84.23Z" transform="translate(-27 -36)"/>
+	  </g>
+	  <g>
+    <rect x="40.78" y="86.27" width="4" height="27.89" transform="translate(-85.33 23.61) rotate(-45)"/>
+    <path d="M34.34,89.65l19,19-2.12,2.12-19-19,2.12-2.12m0-1.41L30.8,91.77,51.23,112.2l3.54-3.54L34.34,88.23Z" transform="translate(-27 -36)"/>
+	  </g>
+	  <g>
+    <rect x="161.68" y="129.56" width="4" height="19.1" transform="translate(-77.42 120.48) rotate(-45)"/>
+    <path d="M158.34,131.65l12.8,12.8L169,146.57l-12.8-12.8,2.12-2.12m0-1.41-3.54,3.54L169,148l3.54-3.54-14.22-14.22Z" transform="translate(-27 -36)"/>
+	  </g>
+	  <g>
+    <rect x="163.79" y="4093.56" width="4" height="27.89" transform="translate(-2882.41 1283.77) rotate(-44.99)"/>
+    <path d="M157.34,4096.94l19,19-2.12,2.12-19-19,2.12-2.12m0-1.41-3.54,3.54,20.43,20.43,3.54-3.54-20.43-20.43Z" transform="translate(-27 -36)"/>
+  	</g>
+	</symbol>
+
+<!-- SVG CODE FOR THE MONEY ICON -->	
+
+	<symbol id="money" viewBox="0 0 120 210">
+		<title>Money Icon</title>
+  	<g>
+    <rect x="0.5" y="20.5" width="119" height="19"/>
+    <path d="M184,43V61H66V43H184m1-1H65V62H185V42Z" transform="translate(-65 -22)"/>
+	  </g>
+	  <g>
+    <rect x="0.5" y="26.5" width="19" height="74"/>
+    <path d="M84,49v73H66V49H84m1-1H65v75H85V48Z" transform="translate(-65 -22)"/>
+	  </g>
+	  <g>
+    <rect x="67.5" y="0.5" width="19" height="205"/>
+    <path d="M151,23V227H133V23h18m1-1H132V228h20V22Z" transform="translate(-65 -22)"/>
+	  </g>
+	  <g>
+    <rect x="33.5" y="0.5" width="19" height="205"/>
+    <path d="M117,23V227H99V23h18m1-1H98V228h20V22Z" transform="translate(-65 -22)"/>
+	  </g>
+	  <g>
+    <rect x="100.5" y="101.5" width="19" height="74"/>
+    <path d="M184,124v73H166V124h18m1-1H165v75h20V123Z" transform="translate(-65 -22)"/>
+	  </g>
+	  <g>
+    <rect x="0.5" y="93.5" width="119" height="19"/>
+    <path d="M184,116v18H66V116H184m1-1H65v20H185V115Z" transform="translate(-65 -22)"/>
+	  </g>
+	  <g>
+    <rect x="0.5" y="166.5" width="119" height="19"/>
+    <path d="M184,189v18H66V189H184m1-1H65v20H185V188Z" transform="translate(-65 -22)"/>
+  	</g>
+	</symbol>
+
+</svg>
