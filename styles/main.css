@@ -31,6 +31,13 @@ h2#name
 	position: absolute;
 	display: block;
 	margin-left: 40%;
+	margin-top: 33%;
+}
+
+h2#newLabel {
+	position: absolute;
+	display: block;
+	margin-left: 40%;
 	margin-top: 30%;
 }
 
@@ -41,6 +48,12 @@ svg.icon-all
 	padding-top: 7%;
 	padding-right: 5%;
 	float: left;
+}
+
+#envelope-icon {
+	clear: both;
+	margin-left: 40%;
+	margin-top: -100px;
 }
 
 #home-icon
@@ -55,7 +68,7 @@ body
 	background-color: black;
 }
 
-header#header, h2#dotw, h2#name
+header#header, h2#dotw, h2#name, h2#newLabel
 {
 	color: #35434e;
 }
@@ -66,7 +79,7 @@ header#header
 	font-family: 'Michroma', sans-serif;
 }
 
-h2#dotw, h2#name
+h2#dotw, h2#name, h2#newLabel
 {
 	font-size: 150%;
 	font-family: 'Kanit', sans-serif;
